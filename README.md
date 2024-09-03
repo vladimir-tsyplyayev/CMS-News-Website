@@ -2,6 +2,11 @@
 
 User side:
 * Static pages;
+  - Home;
+  - Contact;
+  - Gallery;
+  - Events;
+  - List, etc.
 * News archive;
 * Single news page with comments;
 * Gallery;
