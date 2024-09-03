@@ -24,6 +24,7 @@ Before each login to admin panel you need to create a key for your current IP at
 
 Then go to /partyadmin.php to open admin panel well, and under the same passwords.
 
+This is CMS of a real website.
 
 (с) 2009
 
