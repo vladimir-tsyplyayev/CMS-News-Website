@@ -39,8 +39,8 @@ foreach($s1 as $v){
 return $s;
 }
 
-$publickey = "6LeXiwgAAAAAAMSacs18kLhfKv143gT64OW10p9f ";
-$privatekey = "6LeXiwgAAAAAAKgszevTNaJnaWlA6DbDnE4ILOoP";
+$publickey = "...reCAPTCHA_Public_Key_Here...";
+$privatekey = "...reCAPTCHA_Private_Key_Here...";
 
 function generateDCode($length) {
 	$chars = "abcdefghijklmnopqrstuvwxyz0123456789";
