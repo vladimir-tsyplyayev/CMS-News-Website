@@ -1,0 +1,21 @@
+0@#%
+25-02-2010@#%
+Инаугурация президента Украины В.Ф. Януковича@#%
+
+<object width="640" height="505"><param name="movie" value="http://www.youtube.com/v/NTe4dZs3D7U&hl=ru_RU&fs=1&"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/NTe4dZs3D7U&hl=ru_RU&fs=1&" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="640" height="505"></embed></object>
+
+<object width="640" height="505"><param name="movie" value="http://www.youtube.com/v/tAJK8T4qiTE&hl=ru_RU&fs=1&"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/tAJK8T4qiTE&hl=ru_RU&fs=1&" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="640" height="505"></embed></object>
+
+<object width="640" height="505"><param name="movie" value="http://www.youtube.com/v/wO0iUf2hWY4&hl=ru_RU&fs=1&"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/wO0iUf2hWY4&hl=ru_RU&fs=1&" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="640" height="505"></embed></object>
+
+
+<object width="640" height="505"><param name="movie" value="http://www.youtube.com/v/NyZhAdbJpyk&hl=ru_RU&fs=1&"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/NyZhAdbJpyk&hl=ru_RU&fs=1&" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="640" height="505"></embed></object>
+
+
+<object width="640" height="505"><param name="movie" value="http://www.youtube.com/v/TLkWkCO4ym8&hl=ru_RU&fs=1&"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/TLkWkCO4ym8&hl=ru_RU&fs=1&" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="640" height="505"></embed></object>
+
+
+<object width="640" height="505"><param name="movie" value="http://www.youtube.com/v/15u4xEL_U3w&hl=ru_RU&fs=1&"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/15u4xEL_U3w&hl=ru_RU&fs=1&" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="640" height="505"></embed></object>
+
+
+@#%
